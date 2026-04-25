@@ -1,0 +1,12 @@
+CLIENT_S3_BUCKET=your-bucket
+CLIENT_S3_REGION=ru-1
+CLIENT_S3_ENDPOINT=https://s3.example.com
+CLIENT_S3_PATH_STYLE=false
+CLIENT_S3_PREFIX=megurupacks
+
+# empty
+CLIENT_S3_ACCESS_KEY_ID=
+CLIENT_S3_SECRET_KEY=
+
+CLIENT_S3_CAPACITY_GB=10
+CLIENT_PACKS_DIR=/Users/yourname/Desktop/profiles
