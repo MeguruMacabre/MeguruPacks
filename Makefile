@@ -1,7 +1,7 @@
 APP_PKG := github.com/MeguruMacabre/MeguruPacks/internal/appconfig
 
--include secrets.host.mk
--include secrets.client.mk
+-include .secrets.host.mk
+-include .secrets.client.mk
 
 HOST_OUT_DIR ?= ./dist/host
 CLIENT_OUT_DIR ?= ./dist/client
